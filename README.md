@@ -160,14 +160,14 @@ ________________________________________________________________________________
         <h4>💿 Now Playing</h4>
         <br/>
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_format=circle&show_offline=true&background_color=121212&interact=true" alt="Spotify Vinyl" width="230"/>
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=445297)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&redirect=true" alt="Spotify Vinyl" width="230"/>
         </a>
       </td>
 
       <td width="400" align="center" valign="top">
         <h4>📜 Recently Played</h4>
         <br/>
-        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a" target="_blank">
+         <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a" target="_blank">
           <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Recently Played" />
         </a>
       </td>
