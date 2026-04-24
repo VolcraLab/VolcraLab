@@ -65,13 +65,13 @@ iot_learner = {
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VolcraLab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolcraLab&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VolcraLab&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -80,7 +80,7 @@ iot_learner = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VolcraLab&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -107,14 +107,23 @@ iot_learner = {
 
 ---
 
+<!-- Quote -->
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
 <!-- Connect -->
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -122,9 +131,22 @@ iot_learner = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=VolcraLab&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
   
   <br/><br/>
   
   <i>⭐ Jangan lupa star repo yang kamu suka ya!</i>
+</div>
+
+---
+
+<!-- Pacman Animation -->
+## 🕹️ Pacman Eats My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VolcraLab/VolcraLab/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VolcraLab/VolcraLab/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/VolcraLab/VolcraLab/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
