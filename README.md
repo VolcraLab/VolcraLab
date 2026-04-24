@@ -148,3 +148,13 @@ iot_learner = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VolcraLab/VolcraLab/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VolcraLab/VolcraLab/output/pacman-contribution-graph.svg">
 </picture>
+
+##  my favorite song
+
+<div align="center">
+  <a href="https://open.spotify.com/user/fadhilabiyyu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fadhilabiyyu&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
