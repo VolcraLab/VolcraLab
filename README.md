@@ -168,8 +168,8 @@ ________________________________________________________________________________
         <h4>📜 Recently Played</h4>
         <br/>
         <div align="right">
-          <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a" target="_blank">
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Spotify recently played" />
+          <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a?si=8143846a66834ac1">
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a?si=8143846a66834ac1&count=5&unique=true" alt="Spotify recently played" />
           </a>
         </div>
       </td>
