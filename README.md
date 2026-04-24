@@ -160,11 +160,11 @@ ________________________________________________________________________________
         <h4>💿 Now Playing</h4>
         <br/>
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=445297" alt="Spotify Vinyl" width="230"/>
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_format=circle&show_offline=true&background_color=121212&interact=true" alt="Spotify Vinyl" width="220"/>
         </a>
       </td>
 
-    <td width="400" align="center" valign="top">
+      <td width="400" align="center" valign="top">
         <h4>📜 Recently Played</h4>
         <br/>
         <div align="right">
