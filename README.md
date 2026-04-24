@@ -149,28 +149,22 @@ iot_learner = {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VolcraLab/VolcraLab/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🎵 On My Radar
+__________________________________________________________________________________
 
 <div align="center">
-  <h2>🎵 My Digital Jukebox</h2>
+  <h2>🎵 On My Radar</h2>
   <br/>
-
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0">
     <tr>
-      <td align="center" valign="middle" style="border: none;">
+      <td width="300" align="center" valign="middle">
         <h4>💿 Now Playing</h4>
         <br/>
-        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_image=true&theme=novatf&show_offline=true&interact=true" width="280px" alt="Now Playing" />
-        </a>
+        <img src="https://spotify-git.vercel.app/api?userid=31tx4zd5tvinobxddamacjjyuv5a" alt="Spotify Vinyl" width="250"/>
       </td>
-
-      <td width="30"></td>
-
-      <td align="center" valign="top" style="border: none;">
+      <td width="400" align="center" valign="top">
         <h4>📜 Recently Played</h4>
         <br/>
-        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
+        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a" target="_blank">
           <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Recently Played" />
         </a>
       </td>
