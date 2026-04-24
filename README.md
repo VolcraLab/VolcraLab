@@ -10,7 +10,7 @@
 
 ```python
 iot_learner = {
-    "location"   : "Surabaya, Indonesia 🇮🇩",
+    "location"   : "Lombok, Indonesia 🇮🇩",
     "focus"      : "Internet of Things (IoT)",
     "status"     : "Pemula yang semangat belajar 🔥",
     "currently"  : "Mendalami dunia IoT & Embedded Systems",
