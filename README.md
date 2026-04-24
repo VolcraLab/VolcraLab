@@ -164,7 +164,7 @@ ________________________________________________________________________________
         </a>
       </td>
 
-     <td width="400" align="center" valign="top">
+  <td width="400" align="center" valign="top">
   <h4>📜 Recently Played</h4>
   <br/>
   <div align="right">
