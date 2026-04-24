@@ -155,20 +155,25 @@ iot_learner = {
   <h2>🎵 My Digital Jukebox</h2>
   <br/>
 
-  <p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <strong>💿 Now Playing</strong> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <strong>📜 Recently Played</strong>
-  </p>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle" style="border: none;">
+        <h4>💿 Now Playing</h4>
+        <br/>
+        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_image=true&theme=novatf&show_offline=true&interact=true" width="280px" alt="Now Playing" />
+        </a>
+      </td>
 
-  <p align="center">
-    <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_image=true&theme=enygma&show_offline=true&background_color=0d1117&interact=true" width="250" alt="Now Playing" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Recently Played" />
-    </a>
-  </p>
+      <td width="30"></td>
+
+      <td align="center" valign="top" style="border: none;">
+        <h4>📜 Recently Played</h4>
+        <br/>
+        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Recently Played" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
