@@ -164,13 +164,13 @@ ________________________________________________________________________________
         </a>
       </td>
 
-<td width="400" align="right" valign="top">
-  <h4 align="center">📜 Recently Played</h4>
-  <br/>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&theme=compact&show_offline=true&background_color=121212" alt="Recently Played" width="350" />
-  </a>
-</td>
+      <td width="400" align="right" valign="top">
+      <h4 align="center">📜 Recently Played</h4>
+        <br/>
+          <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&redirect=true" target="_blank">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&theme=compact&show_offline=true&background_color=121212" alt="Recently Played" width="350"/>
+          </a>
+      </td>
     </tr>
   </table>
 </div>
