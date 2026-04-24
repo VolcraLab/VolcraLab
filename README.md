@@ -155,17 +155,17 @@ iot_learner = {
   <table border="0">
     <tr>
       <td width="300" align="center" valign="middle">
-        <h4>💿 Now Playing</h4>
+        <h4 align="center">💿 Now Playing</h4>
         <br/>
         <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
-          <img src="https://novatf-spotify-player.vercel.app/api/now-playing?user_id=31tx4zd5tvinobxddamacjjyuv5a" alt="Spotify Vinyl" width="250"/>
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_image=true&theme=enygma&show_offline=true&background_color=121212&interact=true" alt="Spotify Spinning Circle" width="250" style="border-radius: 50%;"/>
         </a>
       </td>
       
       <td width="400" align="center" valign="top">
-        <h4>📜 Recently Played</h4>
+        <h4 align="center">📜 Recently Played</h4>
         <br/>
-        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
+        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a" target="_blank">
           <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Recently Played" />
         </a>
       </td>
