@@ -151,20 +151,26 @@ iot_learner = {
 
 ## 🎵 On My Radar
 
-<table width="100%">
+<h2 align="center">🎵 My Digital Jukebox</h2>
+
+<table width="100%" border="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <p align="center"><strong>💿 Now Playing</strong></p>
+      <h4 align="center">💿 Now Playing</h4>
       <br/>
-      <img src="https://spotify-now-playing-shubham-jain.vercel.app/api/now-playing?user_id=31tx4zd5tvinobxddamacjjyuv5a" alt="Vinyl" width="320px"/>
+      <img src="https://spotify-now-playing-shubham-jain.vercel.app/api/now-playing?user_id=31tx4zd5tvinobxddamacjjyuv5a" alt="Vinyl Animation" width="320px"/>
     </td>
 
     <td width="50%" align="center" valign="top">
-      <h4>📜 Recently Played</h4>
+      <h4 align="center">📜 Recently Played</h4>
       <br/>
-      <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
+      <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a" target="_blank">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Spotify Recently Played" />
       </a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <i>💡 Tips: Putar lagu di Spotify kamu sekarang untuk melihat piringan hitamnya berputar!</i>
+</div>
