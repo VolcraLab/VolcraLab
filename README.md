@@ -164,10 +164,12 @@ ________________________________________________________________________________
         </a>
       </td>
 
-    <td width="400" align="center" valign="top">
-    <h4>📜 Recently Played</h4>
+      <td width="400" align="center" valign="top">
+        <h4>📜 Recently Played</h4>
         <br/>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Recently Played" />
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&theme=compact&show_offline=true&background_color=121212" alt="Recently Played" width="350"/>
+        </a>
       </td>
     </tr>
   </table>
