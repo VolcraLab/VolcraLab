@@ -159,8 +159,11 @@ ________________________________________________________________________________
       <td width="300" align="center" valign="middle">
         <h4>💿 Now Playing</h4>
         <br/>
-        <img src="https://spotify-git.vercel.app/api?userid=31tx4zd5tvinobxddamacjjyuv5a" alt="Spotify Vinyl" width="250"/>
+        <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tx4zd5tvinobxddamacjjyuv5a&cover_format=circle&show_offline=true&background_color=121212&theme=novatorem" alt="Spotify Vinyl" width="220"/>
+        </a>
       </td>
+      
       <td width="400" align="center" valign="top">
         <h4>📜 Recently Played</h4>
         <br/>
