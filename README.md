@@ -165,7 +165,7 @@ ________________________________________________________________________________
       </td>
 
      <td width="400" align="center" valign="top">
-     <h4>📜 Recently Played</h4>
+        <h4>📜 Recently Played</h4>
         <br/>
         <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a" target="_blank">
           <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Recently Played" />
