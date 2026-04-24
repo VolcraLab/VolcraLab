@@ -149,14 +149,22 @@ iot_learner = {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VolcraLab/VolcraLab/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🎵 My Favorite Songs / Recently Played
+## 🎵 On My Radar
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=10&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <p align="center"><strong>💿 Now Playing</strong></p>
+      <br/>
+      <img src="https://spotify-now-playing-shubham-jain.vercel.app/api/now-playing?user_id=31tx4zd5tvinobxddamacjjyuv5a" alt="Vinyl" width="320px"/>
+    </td>
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=1" alt="Now Playing" />
-</div>
+    <td width="50%" align="center" valign="top">
+      <h4>📜 Recently Played</h4>
+      <br/>
+      <a href="https://open.spotify.com/user/31tx4zd5tvinobxddamacjjyuv5a">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tx4zd5tvinobxddamacjjyuv5a&count=5&unique=true&width=350" alt="Spotify Recently Played" />
+      </a>
+    </td>
+  </tr>
+</table>
