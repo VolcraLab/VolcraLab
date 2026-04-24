@@ -1,27 +1,130 @@
-# 💫 About Me:
-Hi there! I'm an IoT enthusiast based in Lombok, Indonesia, who is passionate about technology and currently on a journey to deepen my knowledge in the world of Internet of Things.<br>I enjoy exploring how physical devices can be connected and automated to make everyday life smarter and more efficient.<br>I'm currently learning the fundamentals of IoT and embedded systems, working with tools and languages such as Arduino, Python, C/C++, and JavaScript.<br>Every small project I build is a stepping stone toward becoming a well-rounded IoT developer.<br>I use GitHub mainly to document my learning progress, so you'll find a lot of beginner experiments and mini projects here.<br>I'm looking to collaborate on IoT-related projects and connect with fellow tech enthusiasts who share the same curiosity about how technology can shape the future.<br>Feel free to reach out — I'm always open to learning from others and growing together!
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+a+IoT+Enthusiast+%F0%9F%91%8B;Always+Learning%2C+Always+Building+%F0%9F%94%A7;Exploring+the+World+of+Technology+%F0%9F%8C%8D" alt="Typing SVG" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/volcra.lab) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fdhl_aby) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadhilabiyyu123@gmail.com) 
+<!-- About Me -->
+## 🙋 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VolcraLab&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=VolcraLab&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VolcraLab&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VolcraLab&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VolcraLab&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+```python
+iot_learner = {
+    "location"   : "Surabaya, Indonesia 🇮🇩",
+    "focus"      : "Internet of Things (IoT)",
+    "status"     : "Pemula yang semangat belajar 🔥",
+    "currently"  : "Mendalami dunia IoT & Embedded Systems",
+    "interests"  : ["Smart Devices", "Automation", "Electronics", "Tech World"],
+    "goal"       : "Mendokumentasikan setiap langkah perjalanan belajar saya"
+}
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=VolcraLab&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Tech Stack -->
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🔌 IoT & Hardware
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+<!-- Currently Learning -->
+## 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-Fundamentals-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded-Systems-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sensor-Integration-6BCB77?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MQTT-Protocol-660066?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+<!-- Activity Graph -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+<!-- Learning Journey -->
+## 🗺️ Learning Journey
+
+| Stage | Status | Topik |
+|-------|--------|-------|
+| 🟢 Belajar | `In Progress` | Dasar-dasar Arduino & Sensor |
+| 🟡 Eksplorasi | `Planned` | Komunikasi WiFi dengan ESP32 |
+| 🔵 Project | `Planned` | Smart Home Sederhana |
+| ⚪ Advanced | `Future` | Cloud IoT & Data Analytics |
+
+---
+
+<!-- Fun Facts -->
+## ⚡ Fun Facts
+
+- 🌱 Saya percaya bahwa **setiap project kecil** adalah langkah besar
+- 🔧 Suka banget bereksperimen dengan **sensor dan mikrokontroler**
+- 🌐 Bermimpi membuat **solusi IoT** yang bermanfaat untuk kehidupan sehari-hari
+- 📖 Motto: *"Belajar, Gagal, Perbaiki, Ulangi!"*
+
+---
+
+<!-- Connect -->
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  
+  <br/><br/>
+  
+  <i>⭐ Jangan lupa star repo yang kamu suka ya!</i>
+</div>
